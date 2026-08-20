@@ -23,7 +23,8 @@ Both constructs demonstrated satisfactory reliability
 and convergent validity.
 - Composite Reliability: 0.909–0.934
 - AVE: 0.594–0.738
-<img width="734" height="310" alt="image" src="https://github.com/user-attachments/assets/7df9614d-8093-490d-8306-b30c70afd680" />
+<img width="1918" height="820" alt="image" src="https://github.com/user-attachments/assets/12490630-e878-4dd3-9509-c0c044e9c5ac" />
+
 
 
 ### Structural Model
