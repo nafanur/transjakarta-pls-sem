@@ -14,8 +14,7 @@ Equation Modeling (PLS-SEM).
 - Structural model evaluation
 
 ## Model
-Acceptance of TransJakarta Fare Increase
-→ Interest in Using TransJakarta
+Acceptance of TransJakarta Fare Increase → Interest in Using TransJakarta
 
 ## Results
 ### Measurement Model
@@ -24,6 +23,8 @@ Both constructs demonstrated satisfactory reliability
 and convergent validity.
 - Composite Reliability: 0.909–0.934
 - AVE: 0.594–0.738
+<img width="734" height="310" alt="image" src="https://github.com/user-attachments/assets/7df9614d-8093-490d-8306-b30c70afd680" />
+
 
 ### Structural Model
 - R² = 0.564
